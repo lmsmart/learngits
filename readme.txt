@@ -1,2 +1,4 @@
-git is a version control sys
+git is a version control sys 。
  修改了本文件
+ 
+ under gpl
